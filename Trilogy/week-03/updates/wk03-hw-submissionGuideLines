@@ -1,0 +1,30 @@
+### Submission Guidelines
+
+- Move the following to the `Player_Dealer_Correlation` directory:
+  - All note files
+  - Evidence files:
+    - `Roulette_Losses`
+    - `Dealers_working_during_losses`
+  - Shell script(s)
+  
+- Create ‘Proof-of-work.md’ file
+  - add all screen shots to this file in order of execution
+  - OR add any commands you used by using back-ticks (top left key) \`command goes here\`
+  
+- Compress the `Player_Dealer_Correlation` folder to a zip file.
+  - OR if submitting a GitHub link, leave directory uncompressed in your repo, it should look something like…
+```
+  img/
+   └── image-01.png
+   └── image-02.png
+   └── image-xx.png
+  Player_Dealer_Correlation/
+   └── notes/
+   └── evidence/
+      └── roulette_losses
+      └── dealers_working_during_losses
+   └── scripts/
+  Luck_Duck_Investigation/
+  Proof-of-work.md
+  README.md
+```
