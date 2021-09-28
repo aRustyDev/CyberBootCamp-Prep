@@ -1,0 +1,11 @@
+output "id" {
+  value = data.azurerm_ssh_public_key.example.id
+}
+
+output "virtual_machine_id" {
+  value = data.azurerm_virtual_machine.example.id
+}
+
+output "availability_set_id" {
+  value = data.azurerm_availability_set.example.id
+}
